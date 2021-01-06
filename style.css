@@ -3,7 +3,7 @@ body{
     font-family: 'Roboto Condensed', sans-serif;
 }
 .top{
-    height: 150px;
+    height: 20px;
     width: 1400px;
 }
 li{
@@ -20,14 +20,14 @@ ul li a{
 }
 h1{
     font-size: 50px;
-    color: blue;
+    color: rgb(54, 54, 88);
+    font-weight: bolders;
 }
 .name{
     color:tomato;
 }
 p{
     font-size: 18px;
-}
 }
 section{
     height: 400px;
@@ -40,18 +40,111 @@ section{
     float: left;
 }
 .half img{
+    height:500px;
     width: 100%;
 }
 .hire-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg,lightsalmon,tomato);
-    padding: 10px 20px;
+    background-image: linear-gradient(45deg,chocolate,tomato);
+    padding: 15px 20px;
     border-radius: 5px;
     color: white;
     font-weight: bold;
 }
 #text-top{
     text-align: justify;
-    color:rgb(218, 18, 44);
+    color:rgba(145, 45, 58, 0.973);
     padding-bottom: 40px;
+    width: 75%;
+}
+.font-color{
+    color: rgb(54, 54, 88);
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+    font-weight: bold;
+    color:chocolate;
+}
+#align-mid{
+    padding-top: 100px;
+    padding-left: 90px;
+}
+#mid-text{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+    color:rgb(7, 45, 128);
+    padding-bottom: 40px;
+    width: 75%;
+}
+.img-sec{
+    height:700px;
+    background-color: aliceblue;
+}
+.skill-sec{
+    height: 400px;
+}
+.skill{
+    width: 25%;
+    margin-left: 75px;
+    float: left;
+    background-color: rgba(185, 199, 199, 0.308);
+    border: 20px solid rgba(230, 236, 236, 0.308);
+    border-radius: 15px;
+}
+.project-img{
+    width: 25%;
+    margin-left: 75px;
+    float: left;
+    background-color: white;
+    border: 20px solid white;
+    border-radius: 15px;
+}
+.project-img img{
+    width: 100%;
+    height: 20%;
+}
+.align-working-project{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+h3{
+    font-size: 25px;
+    text-align: justify;
+    color:brown;
+}
+.img-text{
+    font-size: 17px;
+}
+#last-img{
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:60%;
+}
+#work{
+    color: white;
+    float: left;
+    padding-top: 200px;
+    padding-left: 350px;
+}
+#chat{
+    float: right;
+    margin-top: 250px;
+    margin-right: 360px;
+}
+#stay{
+    font-size: 10px;
+}
+.foot{
+    text-align: center;
+}
+.icon{
+    height:40px;
+    width: 40px;
+    padding-left: 30px;
+    padding-bottom: 100px;
 }
