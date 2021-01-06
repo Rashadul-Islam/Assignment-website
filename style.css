@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .top{
     height: 150px;
@@ -21,17 +21,16 @@ ul li a{
 h1{
     font-size: 50px;
     color: blue;
-    font-weight: bolder;
 }
 .name{
     color:tomato;
 }
 p{
-    font-size: 20px;
+    font-size: 18px;
 }
 }
 section{
-    height: 350px;
+    height: 400px;
     padding-bottom: 150px;
 }
 .half{
